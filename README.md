@@ -8,6 +8,12 @@ It's simple and easy to use.
 
 ## Usage
 
+#### use with cocoapod
+
+```
+   pod 'SwiftyLoad'
+```
+
 #### step 1 new a xxx.m file in your project
 
 You can new a .m file anywhere of your project ,and reference in your project. 
